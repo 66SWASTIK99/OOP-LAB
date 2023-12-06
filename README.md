@@ -1,5 +1,5 @@
 # OOP-LAB
 
-SC -> Source Code 
-Ex_(int) -> for exercise and int -> integer
-            for example Ex_1 -> Exercise 1
+**SC** -> Source Code <br><br>
+**Ex_(int)** -> Exercise Number<br>
+&emsp          *for example:* Ex_1 -> Exercise 1
