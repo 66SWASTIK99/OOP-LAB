@@ -1,6 +1,5 @@
 # OOP-LAB
 
-SC -> Source Code
-
+SC -> Source Code \n
 Ex_(int) -> for exercise and int -> integer
             for example Ex_1 -> Exercise 1
